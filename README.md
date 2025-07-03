@@ -17,7 +17,7 @@ O projeto foi desenvolvido utilizando a arquitetura MVC (Model-View-Controller) 
 
 Adicione aqui uma demonstração em vídeo do projeto funcionando:
 
-[![Assista à Demonstração](readme/Teste.MP4)  
+[![Assista à Demonstração]([readme/Teste.MP4](https://github.com/user-attachments/assets/1c6fec77-c1fc-429b-964f-b2992585e821))  
 > _Clique na imagem acima para assistir ao vídeo._
 
 ## 🚀 Funcionalidades
