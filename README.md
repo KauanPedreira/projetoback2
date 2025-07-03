@@ -7,11 +7,11 @@ O projeto foi desenvolvido utilizando a arquitetura MVC (Model-View-Controller) 
 
 ### 1. Tela de Login
   
-![Tela de Login](readme/login.png)
+![Tela de Login](readme/inicio.png)
 
 ### 2. Página Inicial / Dashboard
 
-![Dashboard](readme/dashboard.png)
+![Dashboard](readme/tela.png)
 
 ## 🎬 Demonstração em Vídeo
 
