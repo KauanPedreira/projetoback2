@@ -1,8 +1,8 @@
 # 📺 Projeto Younime
 
-**Younime** é uma plataforma web moderna e interativa desenvolvida para os fãs de animes. A aplicação oferece uma interface elegante e intuitiva para explorar, buscar e gerenciar animes, com foco na personalização da experiência do usuário.
+**Younime** é uma plataforma web moderna e interativa desenvolvida para os fãs de animes. A aplicação oferece uma interface elegante e intuitiva para explorar animes.
 
-O projeto foi desenvolvido utilizando a arquitetura MVC (Model-View-Controller) e integra autenticação segura, temas visuais modernos e consumo de API externa para fornecimento de dados atualizados sobre animes.
+O projeto foi desenvolvido utilizando a arquitetura MVC (Model-View-Controller) e integra autenticação segura, temas visuais modernos.
 
 
 ### 1. Tela de Login
