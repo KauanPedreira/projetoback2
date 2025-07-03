@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-g">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Younime</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/dashboard.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Younime</div>
+        <div class="user-info">
+            <span>Olá, <strong><%= user.name %></strong>!</span>
+            <a href="/logout" class="logout-btn">Sair</a>
+        </div>
+    </header>
+
+    <main>
+        <h2>Recomendados para você</h2>
+        <div class="video-grid">
+            <div class="video-card">
+                <img src="/images/imagem1.jpg" alt="Thumbnail do vídeo">
+                <div class="video-info">
+                    <h3>Hunter x Hunter</h3>
+                    <p>Autor: Yoshihiro Togashi</p>
+                </div>
+            </div>
+            <div class="video-card">
+                <img src="/images/imagem2.jpg" alt="Thumbnail do vídeo">
+                <div class="video-info">
+                    <h3>Attack on Titan</h3>
+                    <p>Autor: Hajime Isayama</p>
+                </div>
+            </div>
+            <div class="video-card">
+                <img src="/images/imagem3.jpg" alt="Thumbnail do vídeo">
+                <div class="video-info">
+                    <h3>Naruto</h3>
+                    <p>Autor: Masashi Kishimoto</p>
+                </div>
+            </div>
+            <div class="video-card">
+                <img src="/images/imagem4.jpg" alt="Thumbnail do vídeo">
+                <div class="video-info">
+                    <h3>Kimetsu no Yaiba</h3>
+                    <p>Autora: Koyoharu Gotouge</p>
+                </div>
+        </div>
+    </main>
+</body>
+</html>
